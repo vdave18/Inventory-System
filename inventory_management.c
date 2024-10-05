@@ -1,6 +1,4 @@
-//VANSH DAVE
-//C PROJECT (PRG255)
-#define _CRT_SECURE_NO_WARNINGS
+//Vansh Dave
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
